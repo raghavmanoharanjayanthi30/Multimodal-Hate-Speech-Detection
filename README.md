@@ -1,6 +1,7 @@
 # Multimodal-Hate-Speech-Detection
 
-Context and Challenge: An Overview 
+Context and Challenge: An Overview
+
 In the rapidly evolving landscape of social media, platforms such as X (formerly Twitter) have emerged as powerful mediums for global expression, allowing individuals a platform to share thoughts, ideas, and experiences. However, this unprecedented connectivity has brought to light a concerning challenge - the amplification of hateful speech and offensive content. Hate speech can be defined as any communication using offensive language to target individuals or groups based on identity factors such as religion, ethnicity, nationality, race, color, gender, or other characteristics, poses a significant threat to online safety and well-being. 
 
 The prevalence of hate speech on social media platforms can have lots of detrimental effects. It contributes significantly to the creation of division, fear, and societal tension, fostering discrimination and marginalization. Beyond its societal impact, hate speech inflicts psychological harm, causing emotional distress and fear among targeted individuals and communities. Moreover, the surge in hate speech raises profound legal and ethical questions, touching upon issues of free speech, censorship, and discrimination. 
